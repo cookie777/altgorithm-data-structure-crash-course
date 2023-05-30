@@ -107,6 +107,7 @@ def q10(n):
             print(i, j)
             j += 1
         i += 1
+	
     i = 0
     while i < n:
         j = 0
@@ -114,6 +115,7 @@ def q10(n):
             print(i, j)
             j += 1
         i += 1
+	
     i = 1
     while i < n:
         print(i)
@@ -121,6 +123,6 @@ def q10(n):
 
 ```
 
-## Implement a 
+## Optional: Try to Implement a 
 - function which time complexity is O(n!)
 - function which time complexity is O(log n)
