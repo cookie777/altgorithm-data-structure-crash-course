@@ -79,6 +79,20 @@ def q8(n):
             print(i, j)
             j += 1
         i += 1
+	
+def q9(n):
+    i = 0
+    while i < n:
+        print(i)
+        i += 1
+
+    i = 0
+    while i < n:
+        j = 0
+        while j < n:
+            print(i, j)
+            j += 1
+        i += 1
 
 ```
 
