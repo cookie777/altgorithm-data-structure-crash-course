@@ -81,3 +81,7 @@ def q8(n):
         i += 1
 
 ```
+
+## Implement a 
+- function which time complexity is O(n!)
+- function which time complexity is O(log n)
