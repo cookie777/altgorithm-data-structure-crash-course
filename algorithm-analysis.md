@@ -94,6 +94,31 @@ def q9(n):
             j += 1
         i += 1
 
+def q10(n):
+    i = 0
+    while i < n:
+        print(i)
+        i += 1
+
+    i = 0
+    while i < n:
+        j = 0
+        while j < n:
+            print(i, j)
+            j += 1
+        i += 1
+    i = 0
+    while i < n:
+        j = 0
+        while j < 100000000:
+            print(i, j)
+            j += 1
+        i += 1
+    i = 1
+    while i < n:
+        print(i)
+        i *= 2
+
 ```
 
 ## Implement a 
