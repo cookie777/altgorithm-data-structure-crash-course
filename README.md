@@ -7,16 +7,19 @@
 - Linked List
 - Stack & Queue
 - Binary search
-- Sort
 - Recursion
-- Tree
-    - dfs, order
-    - bfs
----
-- string manipulation
-- Binary 
+- Sort
+- String manipulation
+
+
+- Binary
 - deep copy vs shaw copy
 - stack vs heap memoery
 - process vs thread
+
+- Tree
+    - dfs, order
+    - bfs
+
 - compile vs dynamic
 
