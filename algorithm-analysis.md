@@ -2,7 +2,7 @@
 
 ---
 
-## Topics
+## Basics
 
 - What is time complexity?
 - What is space complexity?
@@ -10,7 +10,7 @@
 - Is running time == time complexity?
 - Is number of calculations == time complexity?
 
-## Time is the complexity of these functions?
+## What are the complexity of these functions?
 
 ```python
 
