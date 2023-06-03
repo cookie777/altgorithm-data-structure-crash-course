@@ -1,14 +1,14 @@
 
 # Array
 
-## Q: Concept
+## Concept
 - what is array?
 - how do we allecate memery when constructing the array?
 - what is fixed size vs dynamic size array?
 - what is pros and cons about array?
     - when do we use array? 
 
-## Q: What is the time & space complexity of following instruction. Why do think that?
+## What is the time & space complexity of following instruction. Why do think that?
 
 - insert (push)
 - delete by index
@@ -20,6 +20,7 @@
 
 ## Excursive
 
+### Excursive 1
 Let's try to implement an dynamic size array with using only fixed size array.
 Since there is no fixed size array in Ts, sudo code is ok
 
@@ -54,9 +55,9 @@ class DynamicArray {
 }
 ```
 
-## Remove Master
+### Excursive 02: Remove Master
 
-### Task1:
+### Q1
 Congratulation! You'are hired by that Big tech company😎
 Your first job is to implement 
 - `removeAt` function which removes an element at the givien index
@@ -75,12 +76,15 @@ func removeAll(arr: Array<number>, value: number) {
 
 ```
 
-### Task2:
+### Q2
 Easy Peasy? What is your codes **time complexity and space complexity.**
 
-### Task3: optional
+### Q3: optional
 Since your company is big and needs to handle a large amount of data,
 you are asked to make it as efficient as possible.
 
 Can you make it O(n) time complexity and O(1) space complexity for both functions? 😁
 Let's try and get the bonus!
+
+Hint:
+https://leetcode.com/problems/move-zeroes/
