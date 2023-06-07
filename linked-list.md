@@ -62,7 +62,7 @@ https://leetcode.com/problems/design-linked-list/
 - Since 02 could be heavy task, you can try either 02 or 03
 
 ### Exercise 03
-- Let's try to solve some leet code questions
+- Let's try to solve some leet code questions. (You dont' havet to solve all, Just one is enough for now)
 - https://leetcode.com/problems/linked-list-cycle/description/
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - https://leetcode.com/problems/reverse-linked-list/
