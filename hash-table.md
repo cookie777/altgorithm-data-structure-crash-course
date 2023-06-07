@@ -31,7 +31,7 @@ Let's try to implement your own hash function. There is a good leedcode question
     - **Do not ever use pre existing hash table API**
     - **If you use an array, try to fixed the size with 1000**
 
-### Exercise 2
+### Exercise 2 (Optional)
 
 Let's try to sovle some leetcode qusiton.
 These can be optimized by leveraging array and hash table data structure💪
