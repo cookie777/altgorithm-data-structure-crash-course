@@ -20,7 +20,7 @@
 
 ## Excursive
 
-### Excursive 1
+### Excursive 1 (Optional):
 Let's try to implement an dynamic size array with using only fixed size array.
 Since there is no fixed size array in Ts, sudo code is ok
 
@@ -55,7 +55,7 @@ class DynamicArray {
 }
 ```
 
-### Excursive 02: Remove Master
+### Excursive 02(Optional): Remove Master
 
 ### Q1
 Congratulation! You'are hired by that Big tech company😎
