@@ -11,6 +11,7 @@
 ## Analysis
 What is the time complexity of following operations for Stack? Why?
 Since they are multiple types of queue, consider a type using **linked list**.
+
 ### Basics
 - push (add an element to the Stack)
 - pop (remove and return an element from the Stack)

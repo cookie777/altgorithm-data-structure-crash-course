@@ -11,15 +11,17 @@
 ## Analysis
 What is the time complexity of following operations for Queue? Why?
 Since they are multiple types of queue, consider a type using **linked list**.
+
 ### Basics
 - enqueue (add an element to the Queue)
 - dequeue (remove and return an element from the Queue)
 - peek (return an element from the Queue)
 - size (get the size of the Queue)
 - merge two Queue
+
 ### Comparison
 What if we try to implement Queue with Array instead of Linked List?
-What would be a difference?
+What would be the difference?
 
 
 ## Exercise
