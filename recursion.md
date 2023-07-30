@@ -34,3 +34,7 @@ The other ideas that may help you is as follows
 - https://leetcode.com/problems/power-of-two/
 - https://leetcode.com/problems/palindrome-number/
 - https://leetcode.com/problems/reverse-linked-list/
+
+## Exercise2 (Backtracking)
+- https://leetcode.com/problems/generate-parentheses/
+<!-- https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf -->
