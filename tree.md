@@ -38,7 +38,7 @@ Tree usages
 - Depth-First Search (DFS) Algorithm
 - Breadth-First Search (BFS) Algorithm
 
-<!-- 
+
 ## Tree Traversal
 ### Achieved by DFS
 - Pre-Order
@@ -59,11 +59,23 @@ https://www.youtube.com/watch?v=WLvU5EQVZqY
 [4 Types of Tree Traversal Algorithms](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846) 
 
 # Exercise
-- https://leetcode.com/problems/binary-tree-inorder-traversal/
-- https://leetcode.com/problems/same-tree/
-- https://leetcode.com/problems/binary-tree-level-order-traversal/
-- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+### dfs
 - https://leetcode.com/problems/path-sum/
-- https://leetcode.com/problems/path-sum-ii/
-- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
--->
+- https://leetcode.com/problems/binary-tree-inorder-traversal/
+- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+### bfs
+- https://leetcode.com/problems/minimum-depth-of-binary-tree/  
+- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- https://leetcode.com/problems/average-of-levels-in-binary-tree/
+    
+
+
+<!-- - https://leetcode.com/problems/same-tree/
+    either is fine -->
+
+
+
+<!-- - https://leetcode.com/problems/path-sum-ii/
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ -->
