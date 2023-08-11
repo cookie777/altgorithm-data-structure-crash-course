@@ -58,7 +58,22 @@ https://www.youtube.com/watch?v=WLvU5EQVZqY
 
 [4 Types of Tree Traversal Algorithms](https://towardsdatascience.com/4-types-of-tree-traversal-algorithms-d56328450846) 
 
-# Exercise
+# Analytics
+Say if we have a simple request to traverse all Nodes of the tree. The order doesn't matter. What would be the complexity in terms of time and space?
+
+Let's assume the number of all nodes are `n` first.
+You can use `h` as a hight of the tree for DFS too.
+
+## DFS
+- Time
+- Space
+
+## BFS
+- Time
+- Space
+
+
+# Exercise1
 
 ### dfs
 - https://leetcode.com/problems/path-sum/
@@ -70,12 +85,13 @@ https://www.youtube.com/watch?v=WLvU5EQVZqY
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - https://leetcode.com/problems/average-of-levels-in-binary-tree/
     
+# Exercise2
 
+- https://leetcode.com/problems/same-tree/
+- https://leetcode.com/problems/balanced-binary-tree/
+- https://leetcode.com/problems/invert-binary-tree/
+- https://leetcode.com/problems/search-in-a-binary-search-tree/
+    - Try to solve it with `O(h)`: `h` is the hight of the tree
 
-<!-- - https://leetcode.com/problems/same-tree/
-    either is fine -->
-
-
-
-<!-- - https://leetcode.com/problems/path-sum-ii/
-- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ -->
+## Advanced🔥
+- https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
