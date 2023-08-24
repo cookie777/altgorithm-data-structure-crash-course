@@ -6,7 +6,7 @@
 
 ### Q0: Terms
 - What is a `Byte`?
-- What is `LSb`` and `MSb`?
+- What is `LSb` and `MSb`?
 
 ## Conversion
 
