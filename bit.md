@@ -4,8 +4,9 @@
 ## Summary
  A "bit" is the smallest unit of data and information storage in computing. The term "bit" is a contraction of "binary digit." It can have one of two possible values: 0 or 1, representing the two states of a binary system, which is the foundation of digital computing
 
-### Q0
-Then, what is a `Byte`?
+### Q0: Terms
+- What is a `Byte`?
+- What is `LSb` and `MSb`?
 
 ## Conversion
 
@@ -51,6 +52,15 @@ function convertToBase3(numBase10: number): [number] {
 }
 ``````
 
+### Q4
+How do you convert base 10 number to base 16 number? Write an algorithm for it. 
+
+```ts
+
+function convertToBase16(numBase10: number): string {
+    // e.g, If the `num` is 2894, it should return "B4E". 
+}
+``````
 
 ## Unsigned integer
 
@@ -99,4 +109,24 @@ Masaki likes to play retro tv games👾. One day he was playing one of the RPG g
 However, as soon as the boss got healed, it got died and defeated😇. Can you assume and explain what happened? 😁
 
 
-<!-- [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) -->
+<!-- [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) 
+
+---
+## Bitwise operation
+
+Bitwise operations are fundamental operations performed on individual bits (binary digits) within a binary representation of data. 
+
+There are several common bitwise operations:
+
+- AND (&): This operation performs a logical AND between corresponding bits of two operands. The result is 1 only if both bits are 1.
+
+- OR (|): This operation performs a logical OR between corresponding bits of two operands. The result is 1 if at least one of the bits is 1.
+
+- XOR (^): This operation performs a logical XOR (exclusive OR) between corresponding bits of two operands. The result is 1 if the bits are different.
+
+- NOT (~): This operation performs a bitwise negation on each bit of the operand, flipping 0s to 1s and 1s to 0s.
+
+- Left Shift (<<): This operation shifts the bits of a number to the left by a specified number of positions. This effectively multiplies the number by 2 to the power of the shift amount.
+
+- Right Shift (>>): This operation shifts the bits of a number to the right by a specified number of positions. This effectively divides the number by 2 to the power of the shift amount.
+-->
