@@ -109,7 +109,7 @@ Masaki likes to play retro tv games👾. One day he was playing one of the RPG g
 However, as soon as the boss got healed, it got died and defeated😇. Can you assume and explain what happened? 😁
 
 
-<!-- [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) -->
+<!-- [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) 
 
 ---
 ## Bitwise operation
@@ -129,3 +129,4 @@ There are several common bitwise operations:
 - Left Shift (<<): This operation shifts the bits of a number to the left by a specified number of positions. This effectively multiplies the number by 2 to the power of the shift amount.
 
 - Right Shift (>>): This operation shifts the bits of a number to the right by a specified number of positions. This effectively divides the number by 2 to the power of the shift amount.
+-->
