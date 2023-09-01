@@ -261,9 +261,5 @@ function clearBit(input: number, digit: number): number {
 
 ```
 
-
-bit flag
-game reduce
-
-
-https://leetcode.com/tag/bit-manipulation/discuss/2960396/Bit-Manipulation-Guide-and-Tricks
+<!-- References
+- https://leetcode.com/tag/bit-manipulation/discuss/2960396/Bit-Manipulation-Guide-and-Tricks -->
