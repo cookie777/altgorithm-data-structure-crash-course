@@ -216,10 +216,6 @@ function invertSign(input: number): number {
 - https://leetcode.com/problems/single-number/
 - https://leetcode.com/problems/power-of-two/
 
-## Ice Break Question 02
-
-🚧
-
 
 ## Tips and tricks: Advanced (Optional)
 ### Exercise05: Set a Bit 
@@ -261,5 +257,11 @@ function clearBit(input: number, digit: number): number {
 
 ```
 
-<!-- References
-- https://leetcode.com/tag/bit-manipulation/discuss/2960396/Bit-Manipulation-Guide-and-Tricks -->
+### References
+- https://leetcode.com/tag/bit-manipulation/discuss/2960396/Bit-Manipulation-Guide-and-Tricks
+
+## Ice Break Question 02
+
+Masaki joined a game project in the company👾. The game is a retro RPG and has a very massive content. Thus, there are many flags to manage⛳. However, the game is very old and the company wants to minimize the game size as much as possible. 
+
+There are about 1,000 flags you have to manage in the game. Each flag is a boolean type which takes 1 byte to allocate. If it is required to use only 150 bytes for flag management, how do you design it? How do you check and update a flag?🤔
