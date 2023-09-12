@@ -66,6 +66,11 @@ Here's a list of resources to support and enhance your journey 🔥
 - https://www.youtube.com/@NeetCode
 - https://www.youtube.com/@abdul_bari
 
+## Books
+- [The Art of Readable Code by Dustin Boswell, Trevor Foucher](https://a.co/d/44u6AVq)
+- [Refactoring by Martin Fowler ](https://a.co/d/arkuzB0)
+- [Clean Architecture by Robert Martin](https://a.co/d/bVtVfWF)
+- [Pragmatic Programmer by by David Thomas, Andrew Hunt](https://a.co/d/i8ihC1m)
 
 ## Hands on
 
